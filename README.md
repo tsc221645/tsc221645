@@ -1,9 +1,12 @@
-# Who am I?
+# Hi,
 
-I am a Computer Science Engineering student at Universidad del Valle de Guatemala. I like to work on my own side projects to learn how to use other tools and skills.
+I am Ana Laura Tschen, a Computer Science Engineering student at Universidad del Valle de Guatemala. I started learning how to code by myself in 2019. Since then, I have learnt about many tools and technologies that have caught my attention. 
 
 ## Interests
-
+* Cybersecurity :closed_lock_with_key:
+* Virtualization 🖥️
+* Operating Systems
+* Arduino
 
 # Tech Skills
 
@@ -17,8 +20,10 @@ I am a Computer Science Engineering student at Universidad del Valle de Guatemal
 
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
 
-### Stats
-![tsc221645's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsc221645&theme=chartreuse-dark&show_icons=true)
+### Stats and Activity
+![tsc221645's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsc221645&theme=tokyonight&show_icons=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsc221645&theme=tokyonight"/>
 
 # Contact
 
