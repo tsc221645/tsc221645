@@ -20,7 +20,7 @@ I am Ana Laura Tschen, a Computer Science Engineering student at Universidad del
 <a href="https://www.codewars.com/users/Tschen17"/><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a><a href="https://www.hackerrank.com/tschen17"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a><a href="https://leetcode.com/tschen17/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 
 ### Stats and Activity
-![tsc221645's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsc221645&theme=tokyonight&show_icons=true)
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsc221645&theme=tokyonight"/>
 
