@@ -22,7 +22,7 @@ I am Ana Laura Tschen, a Computer Science Engineering student at Universidad del
 ### Stats and Activity
 ![Tsc221645's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsc221645&show_icons=true&theme=tokyonight)
 
-![Tsc221645's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsc221645&show_icons=true&theme=tokyonight)
+![Tsc221645's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsc221645&show_icons=true&theme=transparent)
 
 # Contact
 
