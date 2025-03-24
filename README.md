@@ -1,26 +1,46 @@
-# Hi :herb:
+# Hello, welcome to my profile 
 
-I am Ana Laura Tschen, a Computer Science Engineering student at Universidad del Valle de Guatemala. :grin: I started learning how to code by myself in 2019. Since then, I have learnt about many tools and technologies that have caught my attention. 🔍
+I am Ana Laura Tschen, a Computer Science Engineering student at Universidad del Valle de Guatemala. I'm interested in a variety of technologies and programming languages.
 
 ## Interests
-* Cybersecurity :closed_lock_with_key:
-* Virtualization 🖥️
 * Operating Systems
-* Arduino 🤖
+* Network Management
+* Virtualization
+* Data Analysis
 
 # Tech Skills
 
 ### Programming Languages
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+[![Programming Languages](https://skillicons.dev/icons?i=py,java,arduino,c,cpp,js,kotlin&perline=7)](https://skillicons.dev)
+
+
+### Technologies
+[![Technologies](https://skillicons.dev/icons?i=bash,docker,figma,postgres,androidstudio,supabase,vue&perline=7)](https://skillicons.dev)
+
 
 ### OS
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
-### Social
-<a href="https://www.codewars.com/users/Tschen17"/><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a><a href="https://www.hackerrank.com/tschen17"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a><a href="https://leetcode.com/tschen17/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+[![OS](https://skillicons.dev/icons?i=arch,debian,kali,windows&perline=6)](https://skillicons.dev)
 
 
 # Contact
+[![Contact1](https://skillicons.dev/icons?i=linkedin&perline=1)](www.linkedin.com/in/ana-laura-tschen-moscoso-12ba59242)
+[![Contact2](https://skillicons.dev/icons?i=gmail&perline=1)](tsc221645@uvg.edu.gt)
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+
+</div>
+  <h2>My GitHub Stats</h2>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=tsc221645&hide_border=true&line_height=30&rank_icon=github&theme=radical&show_icons=true&bg_color=45,2f3048,3f405e"
+      alt="GitHub Stats"
+      style="width: 420px;"
+    />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuesay&hide=html&theme=dracula&hide_border=true&bg_color=45,2f3048,3f405e"
+        alt="Top Languages"
+        style="height: 200px;"
+      />
+    </a>
+</div>
 
