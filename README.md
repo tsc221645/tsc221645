@@ -28,7 +28,8 @@ I am Ana Laura Tschen, a 4th year Computer Engineering student at Universidad de
 
 # Some stats 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsc221645&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tsc221645&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="35%" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsc221645&layout=compact&theme=radical&hide_border=true&langs_count=8" width="25%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsc221645&theme=radical&hide_border=true" width="35%" />
 </div>
