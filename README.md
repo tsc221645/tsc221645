@@ -1,9 +1,12 @@
 # Hello, welcome to my github profile :) 
 
-I am Ana Laura Tschen, a 4th year Computer Engineering student at Universidad del Valle de Guatemala. I am interested in a wide variety of programming languages, frameworks and technologies.
+I am Ana Laura Tschen, a 4th year Computer Engineering student at Universidad del Valle de Guatemala. 
 
 ## Interests
 * Operating Systems
+* Web Development
+* Artificial Intelligence
+* Machine Learning
 * Network Management
 * Software Testing
 * Data Analysis
