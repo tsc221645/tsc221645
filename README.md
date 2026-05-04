@@ -6,9 +6,11 @@ I am Ana Laura Tschen, a 4th year Computer Engineering student at Universidad de
 * Operating Systems
 * Web Development
 * Artificial Intelligence
+* Cloud Architecture
 * Machine Learning
 * Network Management
 * Software Testing
+* Agentic WorkFlows
 * Data Analysis
 
 # Tech Skills
