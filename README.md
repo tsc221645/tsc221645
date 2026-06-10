@@ -1,6 +1,6 @@
 # Hello, welcome to my github profile :) 
 
-I am Ana Laura Tschen, a 4th year Computer Engineering student at Universidad del Valle de Guatemala. 
+I am Ana Laura Tschen, a 5th year Computer Engineering student at Universidad del Valle de Guatemala. 
 
 ## Interests
 * Operating Systems
